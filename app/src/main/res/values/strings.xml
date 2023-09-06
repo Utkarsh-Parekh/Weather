@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weatherdata</string>
+    <string name="Max_Temp">Max Temp</string>
+    <string name="Min_Temp">Min Temp</string>
+    <string name="Wind_speed">Wind Speed</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Sunrise">Sunrise</string>
+    <string name="Sunset">Sunset</string>
+</resources>
